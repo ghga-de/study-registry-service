@@ -3,6 +3,18 @@
 
 # GHGA Registry Service
 
+> [!IMPORTANT]
+> **This repository is archived and no longer maintained.**
+>
+> Development of the GHGA registry service continues in the GHGA mono repository at
+> [ghga-de/ghga](https://github.com/ghga-de/ghga), where the service now lives under
+> [`services/ghga-registry-service`](https://github.com/ghga-de/ghga/tree/main/services/ghga-registry-service).
+> Please open issues and pull requests there.
+>
+> This repository is kept read-only for its history. Version 5.0.3 (August 2026) was the
+> last release made here; everything after that has been developed in the mono repository.
+> The documentation below describes the state of the code as of that version.
+
 GHGA Registry Service - a service for ingesting and archiving metadata from data submitters.
 
 ## Description
